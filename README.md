@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/terminal-profile.svg" alt="Terminal-style profile card for Oussama El Boualiti" width="100%" />
+  <img src="./terminal-profile.svg" alt="Terminal-style profile card for Oussama El Boualiti" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Oussama El Boualiti 👋</h1>
