@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="Animated local GitHub dashboard for Oussama El Boualiti">
+  <title>Animated local GitHub dashboard for Oussama El Boualiti</title>
+  <defs>
+    <linearGradient id="panelBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="52%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#05070d"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="38%" stop-color="#7c3aed"/>
+      <stop offset="72%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+      <animate attributeName="x1" values="-1;0;1" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1;2" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="55%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.5"/>
+      <stop offset="55%" stop-color="#7c3aed" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.42"/>
+    </filter>
+    <style><![CDATA[
+      .panel { fill: url(#panelBg); stroke: url(#neon); stroke-width: 2.2; filter: url(#shadow); }
+      .top { fill: #0a1020; opacity: .95; }
+      .card { fill: #0f172a; stroke: #263449; stroke-width: 1.3; }
+      .hotCard { fill: #0f172a; stroke: url(#neon); stroke-width: 1.5; }
+      .title { font: 800 34px Inter, Segoe UI, Arial, sans-serif; fill: #f8fafc; letter-spacing: .3px; }
+      .sub { font: 600 14px JetBrains Mono, Fira Code, Consolas, monospace; fill: #94a3b8; letter-spacing: .8px; }
+      .label { font: 800 19px Inter, Segoe UI, Arial, sans-serif; fill: #bfdbfe; }
+      .small { font: 600 15px Inter, Segoe UI, Arial, sans-serif; fill: #94a3b8; }
+      .mono { font: 700 15px JetBrains Mono, Fira Code, Consolas, monospace; fill: #cbd5e1; }
+      .number { font: 900 48px Inter, Segoe UI, Arial, sans-serif; fill: #7da2ff; }
+      .number2 { font: 900 48px Inter, Segoe UI, Arial, sans-serif; fill: #c084fc; }
+      .number3 { font: 900 48px Inter, Segoe UI, Arial, sans-serif; fill: #93c5fd; }
+      .ringBg { fill: none; stroke: #1f2937; stroke-width: 16; }
+      .ring { fill: none; stroke: url(#barGrad); stroke-width: 16; stroke-linecap: round; stroke-dasharray: 370; stroke-dashoffset: 105; filter: url(#glow); }
+      .barBg { fill: #111827; stroke: #1f2937; stroke-width: 1; }
+      .barFill { fill: url(#barGrad); filter: url(#glow); }
+      .chip { fill: #111827; stroke: #263449; stroke-width: 1.1; }
+      .chipText { font: 700 15px Inter, Segoe UI, Arial, sans-serif; fill: #dbeafe; }
+    ]]></style>
+  </defs>
+
+  <rect width="1200" height="520" rx="30" fill="#0d1117"/>
+  <circle cx="1030" cy="95" r="165" fill="url(#orb)" opacity=".55"/>
+  <circle cx="150" cy="420" r="135" fill="url(#orb)" opacity=".34"/>
+
+  <g opacity=".24">
+    <path d="M46 112 H230 M88 144 H320 M55 402 H308 M908 112 H1136 M850 420 H1132" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="16 14">
+      <animate attributeName="stroke-dashoffset" values="0;-300" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M948 132 h130 v28 h62 M920 382 h110 v-30 h116" stroke="#f97316" stroke-width="1.35" fill="none" stroke-dasharray="14 16">
+      <animate attributeName="stroke-dashoffset" values="0;-300" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="104" cy="116" r="3" fill="#38bdf8">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="248" cy="146" r="4" fill="#a78bfa">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 9;0 0" dur="5.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1108" cy="404" r="4" fill="#f97316">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="998" cy="122" r="3" fill="#22c55e">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 8;0 0" dur="5.7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect x="22" y="20" width="1156" height="480" rx="28" class="panel"/>
+  <rect x="24" y="22" width="1152" height="64" rx="26" class="top"/>
+  <circle cx="62" cy="54" r="8" fill="#ef4444"/>
+  <circle cx="90" cy="54" r="8" fill="#f59e0b"/>
+  <circle cx="118" cy="54" r="8" fill="#22c55e"/>
+  <text x="150" y="60" class="mono">github@oboualiti:~/dashboard</text>
+  <text x="1132" y="60" text-anchor="end" class="sub">local SVG - no broken API cards</text>
+  <rect x="24" y="86" width="1152" height="2" fill="url(#neon)" opacity=".5"/>
+
+  <g opacity=".55">
+    <rect x="-160" y="21" width="120" height="478" fill="#38bdf8" opacity=".08"/>
+    <rect x="-40" y="21" width="2" height="478" fill="#38bdf8" opacity=".7"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;1400 0" dur="6.5s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="64" y="128" class="title">GitHub Dashboard</text>
+  <text x="64" y="154" class="sub">developer profile activity snapshot</text>
+
+  <g transform="translate(64 190)">
+    <rect width="300" height="174" rx="22" class="card"/>
+    <text x="28" y="44" class="label">Total Contributions</text>
+    <text x="28" y="100" class="number">178</text>
+    <text x="28" y="130" class="small">Jan 10, 2023 - Present</text>
+    <rect x="28" y="148" width="238" height="10" rx="5" class="barBg"/>
+    <rect x="28" y="148" width="24" height="10" rx="5" class="barFill">
+      <animate attributeName="width" values="24;176;158;176" dur="4.4s" repeatCount="indefinite"/>
+    </rect>
+    <g opacity=".76">
+      <path d="M232 54 l17 -24 l17 24 l-17 24z" fill="#38bdf8" opacity=".18"/>
+      <circle cx="249" cy="54" r="23" fill="none" stroke="#38bdf8" stroke-width="2"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="4.5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(450 154)">
+    <rect width="300" height="246" rx="26" class="hotCard"/>
+    <circle cx="150" cy="86" r="60" class="ringBg"/>
+    <circle cx="150" cy="86" r="60" class="ring">
+      <animate attributeName="stroke-dashoffset" values="128;78;104;128" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M151 20 C170 38 139 47 160 64 C163 53 181 59 181 82 C181 110 160 126 150 126 C127 126 110 108 115 84 C118 62 138 50 142 32 C144 41 146 52 155 56 C151 44 149 32 151 20Z" fill="#f97316" opacity=".94">
+      <animate attributeName="opacity" values=".72;1;.72" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+    <text x="150" y="102" text-anchor="middle" class="number2">2</text>
+    <text x="150" y="176" text-anchor="middle" class="label" fill="#c084fc">Current Streak</text>
+    <text x="150" y="209" text-anchor="middle" class="small" fill="#5eead4">May 19 - May 20</text>
+  </g>
+
+  <g transform="translate(836 190)">
+    <rect width="300" height="174" rx="22" class="card"/>
+    <text x="28" y="44" class="label">Longest Streak</text>
+    <text x="28" y="100" class="number3">5</text>
+    <text x="28" y="130" class="small">Mar 26 - Mar 30</text>
+    <g transform="translate(207 47)">
+      <rect x="0" y="0" width="52" height="52" rx="13" fill="#111827" stroke="#334155"/>
+      <path d="M13 34 h25 M13 26 h25 M13 18 h25" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="40" cy="14" r="4" fill="#f97316">
+        <animate attributeName="opacity" values=".35;1;.35" dur="1.9s" repeatCount="indefinite"/>
+      </circle>
+      <animateTransform attributeName="transform" type="translate" values="207 47;207 39;207 47" dur="5.2s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(64 424)">
+    <text x="0" y="22" class="sub">focus:</text>
+    <g transform="translate(76 0)"><rect width="118" height="34" rx="17" class="chip"/><text x="59" y="22" text-anchor="middle" class="chipText">Python</text></g>
+    <g transform="translate(208 0)"><rect width="118" height="34" rx="17" class="chip"/><text x="59" y="22" text-anchor="middle" class="chipText">Django</text></g>
+    <g transform="translate(340 0)"><rect width="108" height="34" rx="17" class="chip"/><text x="54" y="22" text-anchor="middle" class="chipText">React</text></g>
+    <g transform="translate(462 0)"><rect width="112" height="34" rx="17" class="chip"/><text x="56" y="22" text-anchor="middle" class="chipText">Laravel</text></g>
+    <g transform="translate(588 0)"><rect width="130" height="34" rx="17" class="chip"/><text x="65" y="22" text-anchor="middle" class="chipText">PostgreSQL</text></g>
+    <g transform="translate(732 0)"><rect width="116" height="34" rx="17" class="chip"/><text x="58" y="22" text-anchor="middle" class="chipText">AI APIs</text></g>
+    <text x="970" y="22" class="mono" fill="#38bdf8">building</text>
+    <rect x="1055" y="8" width="10" height="18" rx="2" fill="#f97316">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
