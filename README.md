@@ -12,6 +12,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Applications+Engineer;Laravel+%7C+React+%7C+Django+%7C+Angular;Building+Scalable+Enterprise+Systems;Passionate+About+Clean+Architecture" />
 
 </div>
+```md
+<p align="center">
+  <img src="./dark_mode.svg"/>
+</p>
+```
 
 ---
 
