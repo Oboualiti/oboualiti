@@ -141,16 +141,18 @@ Learning  : Secure platforms, dashboards, automation, AI APIs, scalable web apps
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 Developer Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Oboualiti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F97316&text_color=C9D1D9" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oboualiti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
+  <img src="./assets/github-dashboard.svg" alt="Animated local developer dashboard" width="100%" />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Oboualiti&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=A78BFA" alt="GitHub streak" />
-</p>
+<!--
+The old GitHub stats cards were removed because external services like
+`github-readme-stats.vercel.app` can fail, rate-limit, or show broken images.
+This dashboard is local SVG code, so it works as long as you upload:
+assets/github-dashboard.svg
+-->
 
 ---
 
