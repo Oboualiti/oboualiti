@@ -1,243 +1,134 @@
-<div align="center">
 
-```ascii
- ██████╗ ██╗   ██╗███████╗███████╗ █████╗ ███╗   ███╗ █████╗ 
-██╔═══██╗██║   ██║██╔════╝██╔════╝██╔══██╗████╗ ████║██╔══██╗
-██║   ██║██║   ██║███████╗███████╗███████║██╔████╔██║███████║
-██║   ██║██║   ██║╚════██║╚════██║██╔══██║██║╚██╔╝██║██╔══██║
-╚██████╔╝╚██████╔╝███████║███████║██║  ██║██║ ╚═╝ ██║██║  ██║
- ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Applications+Engineer;Laravel+%7C+React+%7C+Django+%7C+Angular;Building+Scalable+Enterprise+Systems;Passionate+About+Clean+Architecture" />
-
-</div>
-```md
 <p align="center">
-  <img src="./dark_mode.svg"/>
+  <img src="./assets/terminal-profile.svg" alt="Terminal-style profile card for Oussama El Boualiti" width="100%" />
 </p>
+
+<h1 align="center">Hi, I'm Oussama El Boualiti 👋</h1>
+<h3 align="center">Software Engineering Student · Full-Stack Developer · AI Web Apps Builder</h3>
+
+<p align="center">
+  <a href="mailto:oussamaelboualiti10@gmail.com"><img src="https://img.shields.io/badge/Email-oussamaelboualiti10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a software engineering student specializing in **application development**. I enjoy building secure, scalable and useful systems with modern web technologies, from **Django REST Framework + React** platforms to **Laravel/MySQL** applications and AI-powered web tools.
+
+- 🎓 Licence en Sciences et Techniques — Application Development Engineering, FST Tanger
+- 💼 Lead Developer on a request-management platform using **DRF, React and PostgreSQL**
+- 🔐 Interested in **RBAC permissions, real-time notifications, audit logs and analytics dashboards**
+- 🤖 Building AI web apps using **Python, WordPress and intelligent APIs**
+- 🌍 Based in **Tangier, Morocco**
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🖥️ Data Center Resource Management</h3>
+      <p>Web application for supervising and managing IT infrastructure resources in a data center, with secure multi-user management and real-time notifications.</p>
+      <p><b>Tech:</b> Laravel · MySQL · Notifications · Security</p>
+    </td>
+    <td width="50%">
+      <h3>🚨 Priority Vehicle Management</h3>
+      <p>Traffic-priority system for emergency vehicles such as ambulances, firefighters and police vehicles in urban traffic scenarios.</p>
+      <p><b>Tech:</b> C++ · Raylib · Simulation</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI Web Applications</h3>
+      <p>AI-powered web applications for generating automated text, images and voice content using smart API integrations.</p>
+      <p><b>Tech:</b> WordPress · Python · APIs</p>
+    </td>
+    <td width="50%">
+      <h3>📊 Enterprise Request Platform</h3>
+      <p>Centralized platform for managing request lifecycles between teams, with RBAC, delegation, overrides, real-time alerts, audit logs and analytics dashboards.</p>
+      <p><b>Tech:</b> DRF · React · PostgreSQL · Telegram API</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerDesigner-4B5563?style=for-the-badge" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🧭 Current Focus
+
+```txt
+learning:      advanced backend architecture, APIs, cloud deployment
+building:      secure dashboards, workflow systems, AI web tools
+collaborating: full-stack apps, automation projects, open-source ideas
 ```
 
 ---
 
-```bash
-┌──(oussama㉿github)-[~/profile]
-└─$ fetch dev-info
-```
-
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-```yaml
-Name: Oussama El Boualiti
-Location: Tangier, Morocco
-Role: Full Stack Software Engineer
-Education: Software Engineering Student
-Focus:
-  - Enterprise Applications
-  - AI Web Platforms
-  - Backend Architecture
-  - Real-Time Systems
-
-Languages:
-  - Arabic
-  - French
-  - English
-
-Current Stack:
-  Frontend:
-    - React
-    - Angular
-    - TailwindCSS
-    - Bootstrap
-
-  Backend:
-    - Laravel
-    - Django
-    - DRF
-    - Java
-    - C/C++
-
-  Databases:
-    - PostgreSQL
-    - MySQL
-    - SQLite
-
-Tools:
-  - Linux
-  - Git/GitHub
-  - VSCode
-  - Postman
-```
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,angular,js,html,css,tailwind,bootstrap" />
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,java,c,cpp" />
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,linux,git,github,vscode" />
-
-</div>
-
----
-
-# 🧠 System Information
-
-```bash
-OS:              Windows / Linux
-Editor:          VS Code
-Architecture:    Enterprise Software
-Coding Style:    Clean Architecture
-Learning:        DevOps + System Design
-Passion:         AI & Scalable Systems
-Coffee Usage:    ████████████ 99%
-Bug Fix Rate:    ██████████░░ 87%
-Sleep:           ███░░░░░░░░░ 12%
-```
-
----
-
-# 🚀 Featured Projects
-
-```bash
-[1] Data Center Resource Management System
-    ├── Laravel + MySQL
-    ├── Infrastructure Monitoring
-    ├── Real-Time Notifications
-    └── Multi-user Secure Management
-
-[2] Priority Vehicle Management System
-    ├── C++ + Raylib
-    ├── Smart Traffic Simulation
-    └── Emergency Vehicle Optimization
-
-[3] AI Web Applications
-    ├── Python + APIs
-    ├── AI Image Generation
-    ├── AI Text Generation
-    └── Voice Content Automation
-
-[4] Enterprise Request Management Platform
-    ├── Django REST Framework
-    ├── React + PostgreSQL
-    ├── RBAC Permissions
-    ├── Telegram Integration
-    └── Analytics Dashboards
-```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# ⚔️ Developer Mindset
-
-```cpp
-while(alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
----
-
-# 🎯 Current Goals
-
-```yaml
-2025 Goals:
-  - Master System Design
-  - Build Large Scale Applications
-  - Learn DevOps & Kubernetes
-  - Contribute to Open Source
-  - Build AI SaaS Products
-```
-
----
-
-# ☄️ Activity Graph
-
-<div align="center">
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-# 🧠 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-> sudo shutdown -h stress
-[sudo] password for life:
-***********
-Stress terminated successfully.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:0ea5e9,100:7c3aed"/>
-
-</div>
+## 🤝 Contact
+
+<p align="center">
+  <a href="mailto:oussamaelboualiti10@gmail.com">Email me</a> ·
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> ·
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
+</p>
+
+<p align="center">
+  <i>“Build useful software. Keep learning. Improve every commit.”</i>
+</p>
