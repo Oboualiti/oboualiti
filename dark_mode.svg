@@ -17,7 +17,7 @@
   </clipPath>
 </defs>
 
-<image href="https://raw.githubusercontent.com/oboualiti/oboualiti/main/profile.png"
+<image href="https://raw.githubusercontent.com/Oboualiti/oboualiti/main/profile.png"
        x="70"
        y="70"
        width="280"
@@ -30,7 +30,7 @@
 <!-- RIGHT SIDE TERMINAL -->
 
 <text x="420" y="70" class="title">
-oussama@github
+Oboualiti@github
 </text>
 
 <line x1="420" y1="85" x2="1100" y2="85" stroke="#334155" stroke-width="2"/>
@@ -95,7 +95,7 @@ Tangier, Morocco
 GitHub:
 </text>
 <text x="560" y="360" class="text">
-github.com/oboualiti
+github.com/Oboualiti
 </text>
 
 </svg>
