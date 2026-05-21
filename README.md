@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/GitHub-Oboualiti-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/oussama-el-boualiti/" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" link="https://www.linkedin.com/in/oussama-el-boualiti/" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Oboualiti&style=flat-square&color=38bdf8" alt="Profile views" />
 </p>
