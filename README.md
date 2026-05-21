@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./assets/animated-banner.svg" alt="Animated GitHub banner for Oussama El Boualiti" width="100%" />
-</p>
+<a href="https://rishavchanda.io">
+  <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNhOG9kcjFjc3BtMm9ybDYwa3g0OGhiZmV3d2F5ZmxuZHNzdnh1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="MasterHead" />     
+</a>
 
 <p align="center">
   <img src="./assets/typing-line.svg" alt="Building secure apps, AI tools and scalable dashboards" width="100%" />
